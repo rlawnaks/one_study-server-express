@@ -4,7 +4,7 @@ const express = require("express"),
 
 
 
-const port = 8000;
+const port = 3030;
 app.listen(port, () => {
     console.log(`SERVER ON! PORT : ${port}`)
 })
